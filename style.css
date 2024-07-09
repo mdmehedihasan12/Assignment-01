@@ -87,7 +87,7 @@ ul li a{
 /* section one end */
 .section-two-area{
     width: 1540px;
-    height: 1395px;
+    height: 1195px;
     text-align: center;
     margin: 70px auto;
     border-radius: 16px;
@@ -113,19 +113,55 @@ ul li a{
 }
 
 .title1{
+    width: 90%;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 0 auto;
     margin-top: 70px;
     border-radius: 16px;
-
     background: linear-gradient(90.00deg,rgb(255, 255,255), rgba(255, 255, 255, 0) 100%);
 }
-
+#title2{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.title-content{
+    text-align: left;
+}
 .title-content h2{
+    text-align: left;
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 800;
+}
+.title-content p{
+    text-align: left;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    padding-top: 10px;
+}
+.btn3{
+    padding: 15px;
+    margin-top: 25px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
 }
 /* section two start */
