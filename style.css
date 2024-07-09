@@ -165,3 +165,119 @@ ul li a{
     cursor: pointer;
 }
 /* section two start */
+
+/* section three start */
+.section-three-area{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.section-three-title h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    padding: 30px;
+}
+.section-three-title p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+    padding: 30px;
+
+}
+/* section three end  */
+
+/* section four start */
+.section-four-area{
+    margin-top: 80px;
+    text-align: center;
+}
+.section-four-area h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+.section-four-area p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+
+}
+.skill{
+    margin-top: 20px;
+    margin-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 20px;
+    padding: 20px;
+
+}
+.html{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 20px;
+}
+.html img{
+     margin-bottom: 15px;
+}
+.html p{
+    margin-bottom: 10px;
+}
+.html a{
+    color: rgb(13, 19, 33);
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+.css{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 20px;
+}
+.css img{
+    margin-bottom: 15px;
+}
+.css p{
+    margin-bottom: 10px;
+}
+.css a{
+    color: rgb(13, 19, 33);
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+.js{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 20px;
+}
+.js img{
+    margin-bottom: 15px;
+}
+.js p{
+    margin-bottom: 10px;
+}
+.js a{
+    color: rgb(13, 19, 33);
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* section four end  */
