@@ -281,3 +281,108 @@ ul li a{
 }
 
 /* section four end  */
+
+/* section five start  */
+.skill-area{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    gap: 20px;
+    margin: 30px;
+}
+.section-five-area{
+    margin: 90px;
+    text-align: center;
+}
+.section-five-area h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+}
+.section-five-area > p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+.skill-content1{
+    display: flex;
+    text-align: left;
+    gap: 20px;
+    padding: 10px;
+    width: 900px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;  
+    background: rgb(255, 255, 255);
+}
+.skill-content1 h2{
+    padding: 10px 0;
+    font-size: 25px;
+}
+.skill-content1 p{
+    padding-bottom: 10px;
+    opacity: 0.7;
+}
+.skill-content1 a{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+.skill-content2{
+    display: flex;
+    text-align: left;
+    gap: 20px;
+    padding: 10px;
+    width: 900px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+.skill-content2 h2{
+    padding: 10px 0;
+    font-size: 25px;
+}
+.skill-content2 p{
+    padding-bottom: 10px;
+    opacity: 0.7;
+}
+.skill-content2 a{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+.skill-content3{
+    display: flex;
+    text-align: left;
+    gap: 20px;
+    width: 900px;
+    padding: 10px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+.skill-content3 h2{
+    padding: 10px 0;
+    font-size: 25px;
+}
+.skill-content3 p{
+    padding-bottom: 10px;
+    opacity: 0.7;
+}
+.skill-content3 a{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+/* section five end  */
