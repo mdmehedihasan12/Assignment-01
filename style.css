@@ -85,5 +85,47 @@ ul li a{
     cursor: pointer;
 }
 /* section one end */
+.section-two-area{
+    width: 1540px;
+    height: 1395px;
+    text-align: center;
+    margin: 70px auto;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+.section-two-header h2{
+    margin-top: 70px;
+    padding-top: 60px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+}
+.section-two-header p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 20px;
+    line-height: 30px;
+    opacity: 0.7;
 
+}
+
+.title1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 70px;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg,rgb(255, 255,255), rgba(255, 255, 255, 0) 100%);
+}
+
+.title-content h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+}
 /* section two start */
